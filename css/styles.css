@@ -1,0 +1,47 @@
+html{
+text-align:center;
+background-color:red;
+}
+div.top{
+background-color:blue;
+text-align:center;
+}
+img.logo{
+position:-webkit-sticky;
+position:sticky;
+background-color:rgb(214,76,5);
+border:20px solid #4ca;
+}
+nav.links{
+font-family:Arial, Helvetica, sans-serif;
+}
+a{
+font-size:31px;
+color:#ffffff
+}
+h1{
+text-decoration:underline;
+}
+img.shriver{
+float:left;
+}
+p{
+font-size:25px;
+}
+
+div.motto{
+font-style:italic;
+}
+
+ul.sports{
+font-size:30px;
+display: inline-block;
+}
+
+img.global{
+float:right;
+}
+p.footer{
+background-color:rgb(224,180,111);
+border:20px solid gray;
+}
